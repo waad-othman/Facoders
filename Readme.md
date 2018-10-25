@@ -10,3 +10,9 @@
 * __Week2__:    
 
     Creating Markdown File
+    
+* __Week3__:    
+    
+    Introduction to Python: Numbers and Strings
+    
+    
